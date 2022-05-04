@@ -7,8 +7,8 @@
 :construction: 正在施工 / In Progress
 
 [![On Programming](https://github-readme-stats.vercel.app/api/pin/?username=stapxs&repo=stapxs-qq-lite)](https://github.com/Stapxs/Stapxs-QQ-Lite)
+[![On Programming](https://github-readme-stats.vercel.app/api/pin/?username=stapxs&repo=fructose-blog)](https://github.com/Stapxs/Fructose-Blog)
 
 :seedling: 暂缓更新 / Suspend updates
 
-[![On Programming](https://github-readme-stats.vercel.app/api/pin/?username=stapxs&repo=fructose-blog)](https://github.com/Stapxs/Fructose-Blog)
 [![Waiting Update](https://github-readme-stats.vercel.app/api/pin/?username=stapxs&repo=twitter-fluent-theme)](https://github.com/Stapxs/Twitter-Fluent-Theme)
