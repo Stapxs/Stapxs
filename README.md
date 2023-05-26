@@ -15,7 +15,7 @@
 
 <code><img height="20" src="./images/idea.png"></code>
 <code><img height="20" src="./images/spring.png"></code>
-<br>
+/
 <code><img height="20" src="./images/JavaScript.png"></code>
 <code><img height="20" src="./images/typescript.png"></code>
 <code><img height="20" src="./images/Vue.png"></code>
