@@ -8,7 +8,7 @@
 
 虽然现在在做着一个中规中矩的 Java 开发的活，但还是乐于做前端开发的事情。
 
-<img align="right" alt="GIF" src="https://blog.stapxs.cn/usr/uploads/2020/04/2549705189.png" width="430" height="100%" />
+<img align="right" alt="GIF" src="https://blog.stapxs.cn/usr/uploads/2020/04/2549705189.png" width="300" height="100%" />
 
 - 看看没时间写的 BLOG：[林槐的杂货铺](https://blog.stapxs.cn)
 
