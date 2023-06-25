@@ -25,5 +25,5 @@
 
 ### 🏗️ 近期项目
 
-[![Work](https://github-readme-stats.vercel.app/api/pin/?username=SSF-Team&repo=Dancing-Line&bg_color=22272e&hide_border=true&text_color=adbac7)](https://github.com/anuraghazra/github-readme-stats)
-[![Work](https://github-readme-stats.vercel.app/api/pin/?username=Stapxs&repo=Stapxs-QQ-Lite-2.0&bg_color=22272e&hide_border=true&text_color=adbac7)](https://github.com/anuraghazra/github-readme-stats)
+[![Work](https://github-readme-stats.vercel.app/api/pin/?username=SSF-Team&repo=Dancing-Line&bg_color=22272e&hide_border=true&text_color=adbac7)](https://github.com/SSF-Team/Dancing-Line)
+[![Work](https://github-readme-stats.vercel.app/api/pin/?username=Stapxs&repo=Stapxs-QQ-Lite-2.0&bg_color=22272e&hide_border=true&text_color=adbac7)](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0)
