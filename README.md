@@ -18,10 +18,10 @@
 <code><img height="20" src="./images/idea.png"></code>
 <code><img height="20" src="./images/spring.png"></code>
 /
-<code><img height="20" src="./images/JavaScript.png"></code>
-<code><img height="20" src="./images/typescript.png"></code>
-<code><img height="20" src="./images/Vue.png"></code>
 <code><img height="20" src="./images/VSCode.png"></code>
+<code><img height="20" src="./images/typescript.png"></code>
+<code><img height="20" src="./images/JavaScript.png"></code>
+<code><img height="20" src="./images/Vue.png"></code>
 
 ### 🏗️ 近期项目
 
